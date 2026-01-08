@@ -32,6 +32,10 @@ draw = function(){
   ellipse(rightX, 100, 126, 97);
   ellipse(rightX+62, 100, 70, 60);
   ellipse(rightX-62, 100, 70, 60);
+
+  sunRadius = sunRadius + 1.5;
+
+  
   
 }
 
